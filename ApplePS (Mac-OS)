@@ -1,0 +1,7 @@
+1. Open Finder and, in the Finder menu bar, select Go > Go to Folder.
+2. Type /private/etc/hosts in the textbox and press Return.
+3. Move hosts file to Desktop.
+4. Open the hosts file, and add in the IP:
+```103.250.10.160 www.growtopia1.com
+103.250.10.160 www.growtopia2.com```
+5. Save the file and return it to original location
