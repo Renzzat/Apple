@@ -1,0 +1,36 @@
+**ENG**
+```How to play on iOS:
+
+Step 1: Download Surge 5 from the App Store
+Step 2: Tap the arrow next to or after "Default.conf"
+Step 3: Tap "Default"
+Step 4: Paste this Text:
+[General]
+
+[Rule]
+FINAL, DIRECT
+
+[Host]
+www.growtopia1.com = 103.250.10.160
+www.growtopia1.com = 103.250.10.160
+
+Step 5: Press "Done"
+Step 6: Click "Settings" and allow everything.```
+**ID**
+```Cara bermain di iOS:
+
+Langkah 1: Unduh Surge 5 dari App Store
+Langkah 2: Ketuk panah di sebelah atau setelah "Default.conf"
+Langkah 3: Ketuk "Default"
+Langkah 4: Tempel Teks ini:
+[General]
+
+[Rule]
+FINAL,DIRECT
+
+[Host]
+www.growtopia1.com = 103.250.10.160
+www.growtopia1.com = 103.250.10.160
+
+Langkah 5: Tekan "Selesai"
+Langkah 6: Klik "Pengaturan" dan izinkan semuanya.```
