@@ -1,2 +1,18 @@
+**ENG**
+```HOW TO PLAY IN PC:
+
 103.250.10.160 www.growtopia1.com
 103.250.10.160 www.growtopia2.com
+HostTutorial:
+1. Press ⊞ Win+R (Windows Key + R) to open up the 'Run' window.
+2. Type "C:\Windows\System32\drivers\etc" and find file named "hosts".
+3. Right click on "hosts" and edit on Administrator and add the IP above.```
+**ID**
+```CARA BERMAIN DI PC:
+
+103.250.10.160 www.growtopia1.com
+103.250.10.160 www.growtopia2.com
+HostTutorial:
+1. Tekan ⊞ Win+R (Tombol Windows + R) untuk membuka jendela 'Run'.
+2. Ketik "C:\Windows\System32\drivers\etc" dan cari file bernama "hosts".
+3. Klik kanan pada "hosts" dan edit pada Administrator dan tambahkan IP di atas.```
